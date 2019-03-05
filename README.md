@@ -11,5 +11,6 @@ https://www.creighton.edu/sites/www12.creighton.edu/files/PtT-Exam%20Analysis.pd
 4. Click on **`psychometric-analysis.ipynb`** near the GitHub Icon
 5. Click on **Runtime** and then **Run All**
 6. Look for the **Upload Data** section, and upload **`responses.xlsx`** file
-7. Print as PDF
+7. Click on **View** and then **Expend sections**
+8. Print as PDF
 
